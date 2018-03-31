@@ -16,3 +16,13 @@ h1 {
    font-size: 16px;
    text-decoration: underline;
  }
+
+.two {
+  font-weight: 300;
+  font-size: 42px
+}
+
+h2 {
+  color: gray;
+  font-size: 21px; 
+}
